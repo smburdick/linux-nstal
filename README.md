@@ -1,0 +1,1 @@
+# Compiling linux from scratch
